@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Troque SEU-DOMINIO pelo endereço definitivo do portfólio. Depois, adicione também: Sitemap: https://SEU-DOMINIO/sitemap.xml no robots.txt e <link rel="canonical"> no index.html. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://SEU-DOMINIO/</loc></url>
+</urlset>
